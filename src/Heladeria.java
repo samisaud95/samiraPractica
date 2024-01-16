@@ -51,7 +51,7 @@ public class Heladeria {
     }
 
     public PresentacionEnum getPresentacionEnum() {
-        return presentacionEnum;
+        return  presentacionEnum;
     }
 
     public void setPresentacionEnum(PresentacionEnum presentacionEnum) {

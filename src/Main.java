@@ -14,6 +14,7 @@ public class Main {
         helado2.getGusto();
         helado1.getId();
         gestionHeladeria.addGusto(helado2);
+        helado1.equals(helado1);
 
 
 
