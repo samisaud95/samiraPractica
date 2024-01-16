@@ -6,7 +6,7 @@ public class GestionHeladeria {
     //Emplearemos las colleciones para gestir el funcionamiento de la heladeria
     private ArrayList <Heladeria> heladeriaArrayList;
     private HashMap<Integer,Heladeria> heladeriaHashMap;
-    private HashSet<Heladeria> heladeriaHashSet;
+    private HashSet<Heladeria>   heladeriaHashSet;
 
     public GestionHeladeria() {
         this.heladeriaArrayList = new ArrayList<>();
