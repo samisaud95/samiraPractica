@@ -11,6 +11,8 @@ public class Main {
         helado1.getGustosHeladosEnum();
         helado2.getGustosHeladosEnum();
         helado3.getGustosHeladosEnum();
+        helado2.getGusto();
+        helado1.getId();
 
 
 
