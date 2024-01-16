@@ -47,7 +47,7 @@ public class Heladeria {
     }
 
     public static void setContador(Integer contador) {
-        Heladeria.contador = contador;
+        Heladeria.contador =  contador;
     }
 
     public PresentacionEnum getPresentacionEnum() {

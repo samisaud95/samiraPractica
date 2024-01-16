@@ -13,6 +13,7 @@ public class Main {
         helado3.getGustosHeladosEnum();
         helado2.getGusto();
         helado1.getId();
+        gestionHeladeria.addGusto(helado2);
 
 
 
